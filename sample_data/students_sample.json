@@ -1,0 +1,64 @@
+{
+  "sheet1": [
+    {
+      "student_id": 1,
+      "student_name": "Иванов И.И.",
+      "installment": "Y"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Петров П.П.",
+      "installment": "Y"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Сидорова А.А.",
+      "installment": "Y"
+    },
+    {
+      "student_id": 4,
+      "student_name": "Смирнов С.С.",
+      "installment": "N"
+    }
+  ],
+  "sheet2": [
+    {
+      "student_id": 1,
+      "last_payment_date": "09.08.2022",
+      "expected_payment_date": "05.02.2023"
+    },
+    {
+      "student_id": 2,
+      "last_payment_date": "07.08.2021",
+      "expected_payment_date": "06.02.2022"
+    },
+    {
+      "student_id": 3,
+      "last_payment_date": "20.09.2022",
+      "expected_payment_date": "19.03.2023"
+    }
+  ],
+  "sheet3": [
+    {
+      "student_id": 1,
+      "already_payed_amount": 50000,
+      "left_to_pay": 150000,
+      "one-time_payment": 50000,
+      "installment_amount": 200000
+    },
+    {
+      "student_id": 2,
+      "already_payed_amount": 100000,
+      "left_to_pay": 300000,
+      "one-time_payment": 100000,
+      "installment_amount": 400000
+    },
+    {
+      "student_id": 3,
+      "already_payed_amount": 50000,
+      "left_to_pay": 150000,
+      "one-time_payment": 50000,
+      "installment_amount": 200000
+    }
+  ]
+}
